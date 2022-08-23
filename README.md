@@ -1,1 +1,1 @@
-# landing-page
+This is my landing page. This forms part of the numerous project works at the odin project to test all I have been taught in HTML and CSS. Please feel free to give your verdict as I am opened to developing better. Thanks.
